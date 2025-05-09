@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: ugurcatak
-Donate link: http://www.dictionarybox.com/donate.html
 Tags: dictionary, translator, translation, translate, glossary, lexicon, thesaurus, definitions, words, english, spanish, dutch, italian, german, french, portuguese, greek, chinese, japanese, korean, turkish, russian, plugin, multilingual, language, vocabullary, tooltips
 Requires at least: 2.0.2
 Tested up to: 3.2
@@ -31,8 +30,6 @@ Please rate the Dictionary Box translator plugin if you find it useful, thank yo
 = I have Installed the plugin but nothing is showing up on my site? =
 
 Please check your Wordpress theme, all themes must have wp_footer() function. This is a WordPress theme development standart. See how to fix this: http://www.youtube.com/watch?v=h59sy3tUQrc
-
-http://www.dictionarybox.com/feedback.html
 
 == Screenshots ==
 
