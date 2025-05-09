@@ -1,4 +1,4 @@
-=== Plugin Name ===
+#== Plugin Name ==
 
 Contributors: ugurcatak
 Donate link: http://www.dictionarybox.com/donate.html
@@ -9,7 +9,7 @@ Stable tag: 1.0
 
 Provides an internal double click dictionary on the footer of your pages.
 
-== Description ==
+#== Description ==
 
 Click here for quick demo page : [Dictionary for your website](http://www.dictionarybox.com/) 
 
@@ -19,14 +19,14 @@ Dictionary Box provides translations in English, Spanish, Portuguese, German, Fr
 
 Please rate the Dictionary Box translator plugin if you find it useful, thank you.
 
-== Installation ==
+#== Installation ==
 
 1. Download the .zip file
 2. Extract the contents and upload into your wp-content/plugins directory
 3. Activate the plugin in your WordPress Dashboard
 4. Set glossary options via plugin settings page. Default glossary is English &hArr; Spanish.
    
-== Frequently Asked Questions ==
+#== Frequently Asked Questions ==
 
 = I have Installed the plugin but nothing is showing up on my site? =
 
@@ -34,15 +34,15 @@ Please check your Wordpress theme, all themes must have wp_footer() function. Th
 
 http://www.dictionarybox.com/feedback.html
 
-== Screenshots ==
+#== Screenshots ==
 
 1. screenshot-1.gif
 2. screenshot-2.jpg
 
-== Changelog ==
+#== Changelog ==
 
 = 1.0 =
 * This is the first version of the plugin.
 
-== Upgrade Notice ==
+#== Upgrade Notice ==
 There have been no upgrades yet.
