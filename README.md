@@ -33,8 +33,6 @@ Please rate the Dictionary Box translator plugin if you find it useful, thank yo
 
 Please check your Wordpress theme, all themes must have wp_footer() function. This is a WordPress theme development standart. See how to fix this: http://www.youtube.com/watch?v=h59sy3tUQrc
 
-http://www.dictionarybox.com/feedback.html
-
 # Screenshots
 
 1. screenshot-1.gif
