@@ -14,8 +14,6 @@ Provides an internal double click dictionary on the footer of your pages.
 
 # Description
 
-Click here for quick demo page : [Dictionary for your website](http://www.dictionarybox.com/) 
-
 Dictionary Box provides an internal dictionary on the footer of your pages with double click functionality and audio pronounce. Dictionary Box does not open a new page to translate words, the visitors stay at your website.
 
 Dictionary Box provides translations in English, Spanish, Portuguese, German, French, Italian, Russian, Turkish, Dutch, Greek, Albanian, Chinese, Japanese and Korean dictionaries.
