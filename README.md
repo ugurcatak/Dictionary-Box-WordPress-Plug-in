@@ -1,10 +1,13 @@
 # Plugin Name
 
-Contributors: ugurcatak
-Donate link: http://www.dictionarybox.com/donate.html
+Contributors: Ugur Catak
+
 Tags: dictionary, translator, translation, translate, glossary, lexicon, thesaurus, definitions, words, english, spanish, dutch, italian, german, french, portuguese, greek, chinese, japanese, korean, turkish, russian, plugin, multilingual, language, vocabullary, tooltips
+
 Requires at least: 2.0.2
+
 Tested up to: 3.2
+
 Stable tag: 1.0
 
 Provides an internal double click dictionary on the footer of your pages.
